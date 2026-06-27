@@ -5,7 +5,14 @@
 The store owner manages everything from a beautiful, real-time React dashboard featuring animated Kanban boards, automatic customer CRM, and live revenue tracking.
 
 ---
+# Team name : **Quantum Brain's**
+team members :
+- Samiulla Khan
+- Syed Hassan Ibtesam
+- Rahmaatulla
+- Zabiulla Khan
 
+- -- 
 ## 🚀 Key Features
 
 ### For the Customer:
